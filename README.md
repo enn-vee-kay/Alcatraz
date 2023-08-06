@@ -1,5 +1,4 @@
 # Alcatraz
-An HTTPS Based Access Privileges Control System Using Django Web Framework.
 
 Everyone of us, atleast once in our lifetime, would have used (or) come across Live Train Running Status Applications in both Mobile Devices while travelling from one place to other, so that either we could have a sound sleep or do any scheduled tasks while our Phone reminds us of our destination well early in time so that we could prepare ourselves to get down in our destination, especially when the stopping time in that destination is going to be less.
 
